@@ -1,4 +1,3 @@
-# A *Higher Performance* Pytorch Implementation of DeepLab V3 Plus 
 
 ## Introduction
 This repo is an (re-)implementation of [Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation](https://arxiv.org/abs/1802.02611) in PyTorch for semantic image segmentation on the PASCAL VOC dataset. And this repo has a higher mIoU of 79.19% than the result of paper which is 78.85%.
