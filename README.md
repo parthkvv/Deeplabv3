@@ -1,6 +1,6 @@
 pip install -r requirements.txt
 
-Dataset - augmented PASCAL VOC 2012 dataset.
+Augmented PASCAL VOC 2012 dataset.
 
 ### Training
 
