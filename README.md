@@ -6,7 +6,7 @@ Augmented PASCAL VOC 2012 dataset.
 
 python tools/train.py
 
-### Tensorboard check
+### Tensorboard 
 tensorboard --logdir=runs/ --port=80
 
 Ref:
